@@ -12,6 +12,9 @@ This repository contains a Power BI dashboard project that visualizes sales data
 ## Overview
 This project involves the creation of an interactive Power BI dashboard designed to analyze and present sales data in a visually appealing and easy-to-understand manner. The dashboard can be used by stakeholders to gain insights into sales performance, identify trends, and make data-driven decisions.
 
+## Example: View the analysis of sales data in China
+![salesDashboard_china_page-0001](https://github.com/yeonjaeim/BI-projects/assets/145633078/554b9f01-1029-46f5-bc9c-f5929a96c883)
+
 ## Features
 - **Total Sales and Profit Analysis**: Displays total sales, total profit, and profit ratio.
 - **Sales by Country**: Visual representation of sales and profit ratios by country.
